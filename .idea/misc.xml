@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jjruano/AndroidStudioProjects/EjercicioRoom/app/src/main/res/layout/activity_equipo_detalles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jjruano/AndroidStudioProjects/EjercicioRoom/app/src/main/res/layout/activity_equipos.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/jjruano/AndroidStudioProjects/EjercicioRoom/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/jjruano/AndroidStudioProjects/EjercicioRoom/app/src/main/res/layout/activity_menu_principal.xml" value="0.33" />
+        <entry key="..\:/Users/jjruano/AndroidStudioProjects/EjercicioRoom/app/src/main/res/layout/item_equipo.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
